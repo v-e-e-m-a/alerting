@@ -67,8 +67,8 @@ repositories {
 configurations {
     ktlint {
         resolutionStrategy {
-            force "ch.qos.logback:logback-classic:1.5.19"
-            force "ch.qos.logback:logback-core:1.5.19"
+            force "ch.qos.logback:logback-classic:1.5.25"
+            force "ch.qos.logback:logback-core:1.5.25"
         }
     }
 }
